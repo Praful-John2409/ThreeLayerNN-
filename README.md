@@ -34,7 +34,7 @@ Each notebook contains a **fully executable implementation** of a **3-layer deep
 ## 🎥 **Video Walkthrough**
 A **detailed walkthrough** of all Colab notebooks, explaining **each code section** and **final outputs**.
 
-📺 **YouTube Video Walkthrough**: [ Watch Here](https://youtube.com/your_video_link)
+📺 **YouTube Video Walkthrough**: [ Watch Here](https://youtu.be/GkgS2nm7D5c)
 
 ---
 
